@@ -1,0 +1,81 @@
+
+PS C:\Users\user\Desktop\JS> node index.js
+Hii there
+AS
+false
+false
+true
+true
+true
+true
+2
+28
+[
+  1, 2, 3, 4, 5,
+  6, 7, 8, 9
+]
+Avantika
+[String: 'Singh']
+8
+, Banana, Ki
+, B
+nana, Kiwi
+I am Avantika singh avantika
+v
+118
+A
+avantika singh
+AvantikaSingh
+AvantikaSingh
+Avantika Singh
+Avantika is my Singh
+HELOO   WOFK
+[ 'a', ' b', ' Avantikac', ' d', 'e' ]
+[ 'a,', 'b,', 'Avantikac,', 'd,e' ]
+[ 'a, b, ', 'c, d,e' ]
+Mon May 03 2021 00:32:34 GMT+0530 (India Standard Time)
+2021-05-02T19:02:34.576Z
+2021-05-02T19:02:34.578Z
+5/3/2021, 12:32:34 AM
+Mon May 03 2021 00:32:34 GMT+0530 (India Standard Time)
+1619982154642
+1619982154644
+0
+32
+34
+644
+1620064954651
+1620065074651
+1620065093651
+1620065093353
+5/3/2021
+12:32:34 AM
+5/3/2021, 12:32:34 AM
+3.141592653589793
+11
+8
+8
+9
+50.1
+5
+4
+-3
+132
+6
+132
+-3
+{ myName: 'Avantika', myAge: [Function: myAge] }
+My name is Avantika Singh and my age is 20
+[ 'red', 'green', 'yellow', 'pink', 'black' ]
+false
+[ 'Avantika', 87 ]
+[ [ 'name', 'Avantika' ], [ 'age', 87 ] ]
+{ name: 'Avantika', age: 87 }
+[
+   1, 2, 3,  4, 5,
+   6, 7, 8, 10, 9,
+  11
+]
+9007199254740991
+7
+7
