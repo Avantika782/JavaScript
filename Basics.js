@@ -203,11 +203,13 @@ console.log(oldNum);
 const subs = (a, b) => {
     return Math.abs(a - b);
 }
-console.log(add(2, 5));
 
 const add = (a, b) => {
     return a + b;
 }
+
+
+console.log(add(2, 5));
 
 const mul = (a, b) => {
     return a * b;
