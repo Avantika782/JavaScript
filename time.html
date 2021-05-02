@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+    <p>Click the button to display time after changing the hours.</p>
+    <button onclick="myFunction()">Try it</button>
+    <p id="demo"></p>
+    <p id="time"></p>
+    <script>
+        /* function myFunction() {
+             var t = new Date();
+             t.setHours(5);
+             document.getElementById("demo").innerHTML = t;
+         }*/
+
+        (function () {
+            setInterval(() => {
+                var t = new Date().toLocaleTimeString();
+                document.getElementById("time").innerHTML = t;
+            }, 1000)
+        })();
+
+        var d = new Date().toLocaleDateString();
+        document.getElementById("demo").innerHTML = d;
+        /*var t = new Date().toLocaleTimeString();
+        document.getElementById("time").innerHTML = t;*/
+    </script>
+</body>
+
+</html>
